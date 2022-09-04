@@ -18,7 +18,7 @@ public static void main(String[] args) {
 		System.out.println("Price :"+b2.getPrice());
 		System.out.println("Quantity :"+b2.getQty());
 
-		System.out.println("Gender :"+ b2.getEmail());
+		System.out.println("Email :"+ b2.getEmail());
 		
 		
 	}
