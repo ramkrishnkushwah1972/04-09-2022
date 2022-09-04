@@ -1,7 +1,5 @@
 package com.inheritance.bll;
-
-public class Author {
-	
+public class Author {	
 	private String name;
 	private String email;
 	private char gender;
